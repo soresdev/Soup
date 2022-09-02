@@ -1,0 +1,5 @@
+name: Soup
+main: me.sores.soup.Soup
+version: 1.0
+author: sores
+commands:
